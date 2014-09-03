@@ -1,0 +1,8 @@
+This game is playable inside your web browser. 
+
+Simply open up the WebPlayer folder and drag "WebPlayer.html" into your browser to begin playing this game. There is a chance you may need to download 
+the Unity WebPlayer drive, but this will prompt you for it automatically.
+
+This is game is as it stands upon completion of the 2010 Scottish Game.
+
+It is best played with an Xbox 360 Controller.
